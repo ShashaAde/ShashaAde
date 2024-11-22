@@ -1,9 +1,9 @@
-# Hello, Oluseyi Adekoya
+# Hello, I'm Oluseyi Adekoya
 <a href="https://linkedin.com/in/oluseyi-adekoya-3421541a6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+A highly motiovated Towson gruadate with a Bachelor's degree in Information and Technology. I am currently searching for a job that will bolster my technical, knowledge, and networking opportunities in the IT and computing world while heavily pursuing an interest in cybersecurity.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
