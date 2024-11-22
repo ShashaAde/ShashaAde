@@ -9,23 +9,23 @@ A highly motiovated Towson gruadate with a Bachelor's degree in Information and 
 I am currently searching for a job that will bolster my technical, knowledge, and networking opportunities in the IT and computing world while heavily pursuing an interest in cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                          | Associated Project                            |
+|------------------------------------------------|-----------------------------------------------|
+| System Administration and Virtualization       | <a href="https://google.com">Domain Netowrk Project</a>|
+| Active Directory (AD) and Domain Configuration | <a href="https://google.com">Domain Netowrk Project</a>|
+| Networking and Connectivity                    | Domain Netowrk Project|
+| Local Users and Groups Management              | Domain Netowrk Project|
+| Group Policy Management                        | Domain Netowrk Project|
+| Linux System Administration                    | Domain Netowrk Project|
+| Web Development and Hosting                    | Domain Netowrk Project|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### Content Managment
@@ -52,5 +52,4 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Domain Network Project
