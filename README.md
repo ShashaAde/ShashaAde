@@ -1,12 +1,10 @@
 # Hello, I'm Oluseyi Adekoya
 <a href="https://linkedin.com/in/oluseyi-adekoya-3421541a6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 A highly motiovated Towson gruadate with a Bachelor's degree in Information and Technology, with with experience in foreground and background systems, coupled with a comprehensive understanding of operating systems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 I am currently searching for a job that will bolster my technical, knowledge, and networking opportunities in the IT and computing world while heavily pursuing an interest in cybersecurity.
 
@@ -28,20 +26,11 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Cloud
+### Content Managment
 <div>
-    <img src="https://img.shields.io/badge/-AWS-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -50,7 +39,6 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
     <a href="https://www.credly.com/badges/13279bad-627d-4423-a1db-a6a4dc097fff/public_url">
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
