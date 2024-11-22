@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-A highly motiovated Towson gruadate with a Bachelor's degree in Information and Technology. I am currently searching for a job that will bolster my technical, knowledge, and networking opportunities in the IT and computing world while heavily pursuing an interest in cybersecurity.
+A highly motiovated Towson gruadate with a Bachelor's degree in Information and Technology, with with experience in foreground and background systems, coupled with a comprehensive understanding of operating systems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am currently searching for a job that will bolster my technical, knowledge, and networking opportunities in the IT and computing world while heavily pursuing an interest in cybersecurity.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
