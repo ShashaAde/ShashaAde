@@ -40,17 +40,21 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCP-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white" />
+    <a href="https://www.credly.com/badges/13279bad-627d-4423-a1db-a6a4dc097fff/public_url">
+        <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/badges/e24d0265-260b-4061-8994-44ae119fe3e5/linked_in_profile">
+        <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/badges/8a563590-9767-454f-ae20-dc8eb4105617/linked_in_profile">
+        <img src="https://img.shields.io/badge/-CCP-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white" />
+    </a>
 </div>
 
 ## Projects
