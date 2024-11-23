@@ -22,15 +22,21 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 
 ## Tools
 
-### Network
+### Cloud 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white" />
 </div>
 
 ### Content Managment
 <div>
     <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### SIEM
