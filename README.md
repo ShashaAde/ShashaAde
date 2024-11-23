@@ -20,7 +20,7 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 | Linux System Administration                    | Domain Netowrk Project|
 | Web Development and Hosting                    | Domain Netowrk Project|
 
-## Tools
+## Servicves/Tools
 
 ### Cloud 
 <div>
