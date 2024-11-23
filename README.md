@@ -39,10 +39,46 @@ I am currently searching for a job that will bolster my technical, knowledge, an
     <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### Database
+<div>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+### Design
+<div>
+    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?&style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?&style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?&style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?&style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+</div>
+
+### Hypervisor 
+<div>
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco Packet Tracer-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+### Office Productivity 
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-DC3E2F?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Word-2B579A?&style=for-the-badge&logo=microsoftword&logoColor=white" />    
+</div>
+
+### Programming & Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Perl-0298C3?&style=for-the-badge&logo=perl&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 ### SIEM
