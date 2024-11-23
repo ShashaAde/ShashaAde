@@ -24,14 +24,14 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 
 ### Cloud 
 <div>
-    <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20IAM-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Amazon%20CloudFront-146EB4?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20CloudFormation-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20IAM-232F3E?style=for-the-badge&logo=AmazonIAM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20CloudFront-146EB4?style=for-the-badge&logo=Amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=Amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=AmazonCloudWatch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20CloudFormation-232F3E?style=for-the-badge&logo=Amazon&logoColor=white" />
 </div>
 
 ### Content Managment
