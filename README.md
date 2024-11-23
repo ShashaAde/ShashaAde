@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/oluseyi-adekoya-3421541a6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-A highly motiovated Towson gruadate with a Bachelor's degree in Information and Technology, with with experience in foreground and background systems, coupled with a comprehensive understanding of operating systems.
+A highly motiovated Towson gruadate with a Bachelor's degree in Information and Technology, with experience in foreground and background systems, coupled with a comprehensive understanding of operating systems.
 
 ## Objective
 
