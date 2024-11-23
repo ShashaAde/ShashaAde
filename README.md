@@ -26,12 +26,12 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 | Skill                                          | Associated Project                            |
 |------------------------------------------------|-----------------------------------------------|
 | System Administration and Virtualization       | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
-| Active Directory (AD) and Domain Configuration | <a href="https://google.com">Domain Netowrk Project</a>|
-| Networking and Connectivity                    | Domain Netowrk Project|
-| Local Users and Groups Management              | Domain Netowrk Project|
-| Group Policy Management                        | Domain Netowrk Project|
-| Linux System Administration                    | Domain Netowrk Project|
-| Web Development and Hosting                    | Domain Netowrk Project|
+| Active Directory (AD) and Domain Configuration | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
+| Networking and Connectivity                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
+| Local Users and Groups Management              | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
+| Group Policy Management                        | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
+| Linux System Administration                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
+| Web Development and Hosting                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
 
 ## Servicves/Tools
 
