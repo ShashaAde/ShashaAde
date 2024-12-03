@@ -25,13 +25,13 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 
 | Skill                                          | Associated Project                            |
 |------------------------------------------------|-----------------------------------------------|
-| System Administration and Virtualization       | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
-| Active Directory (AD) and Domain Configuration | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
-| Networking and Connectivity                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
-| Local Users and Groups Management              | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
-| Group Policy Management                        | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
-| Linux System Administration                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
-| Web Development and Hosting                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Netowrk Project</a>|
+| System Administration and Virtualization       | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
+| Active Directory (AD) and Domain Configuration | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
+| Networking and Connectivity                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
+| Local Users and Groups Management              | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
+| Group Policy Management                        | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
+| Linux System Administration                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
+| Web Development and Hosting                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
 
 ## Servicves/Tools
 
