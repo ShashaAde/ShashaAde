@@ -17,7 +17,7 @@ I am currently searching for a job that will bolster my technical, knowledge, an
         <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <a href="https://www.credly.com/badges/8a563590-9767-454f-ae20-dc8eb4105617/linked_in_profile">
-        <img src="https://img.shields.io/badge/-CCP-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AWS CCP-4D4D4D?&style=for-the-badge&logo=Amazon&logoColor=white" />
     </a>
 </div>
 
@@ -31,6 +31,7 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 | Local Users and Groups Management              | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
 | Group Policy Management                        | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
 | Linux System Administration                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
+| Local User Creation                            | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
 | Web Development and Hosting                    | <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>|
 
 ## Servicves/Tools
