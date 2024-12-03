@@ -102,4 +102,4 @@ I am currently searching for a job that will bolster my technical, knowledge, an
 
 
 ## Projects
-- Domain Network Project
+-  <a href="https://github.com/ShashaAde/Domain-Network-Project/blob/main/README.md">Domain Network Project</a>
